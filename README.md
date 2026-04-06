@@ -146,6 +146,10 @@ This demonstrates the effectiveness of combining:
 * Evolutionary techniques (GA)
 * Local optimization methods
 
+ ## 🏁 Output
+ <img width="564" height="200" alt="image" src="https://github.com/user-attachments/assets/daa44369-614c-4c9a-b8ea-bfeb1d79b165" />
+
+
 
 
 
